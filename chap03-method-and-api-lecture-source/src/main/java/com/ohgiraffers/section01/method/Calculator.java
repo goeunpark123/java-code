@@ -18,11 +18,11 @@ public class Calculator {
         return first / second;
     }
 
-    private int minTwoNumbers(int first, int second) {
+    private int minNumberOf(int first, int second) {
         return (first > second) ? second : first;
     }
 
-    public static int maxTwoNumbers(int first, int second) {
+    public static int maxNumberOf(int first, int second) {
         return (first > second) ? first : second;
     }
 }

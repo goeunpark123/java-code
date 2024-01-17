@@ -18,6 +18,6 @@ public class Application9 {
 //        System.out.println("최소값: " + cal.minTwoNumbers(first, second));
 
         /*설명. static 메소드는 클래스명을 붙여야만 호출 가능*/
-        System.out.println("최대값: " + Calculator.maxTwoNumbers(first, second));
+        System.out.println("최대값: " + Calculator.maxNumberOf(first, second));
     }
 }
